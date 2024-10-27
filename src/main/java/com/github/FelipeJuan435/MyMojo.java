@@ -1,4 +1,4 @@
-package com.huele;
+package com.github.FelipeJuan435;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
